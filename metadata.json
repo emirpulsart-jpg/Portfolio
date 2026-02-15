@@ -1,0 +1,8 @@
+{
+  "name": "EliteWeb Studio Portfolio",
+  "description": "A high-end professional portfolio showcasing premium web development services, immersive experiences, and AI-integrated solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
